@@ -17,6 +17,7 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.0.6)
       domain_name (~> 0.5)
+    json (2.7.1)
     mime-types (3.5.2)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2024.0702)
@@ -50,6 +51,7 @@ PLATFORMS
 DEPENDENCIES
   discordrb (~> 3.5)
   dotenv
+  json
   nokogiri
   open-uri
 
